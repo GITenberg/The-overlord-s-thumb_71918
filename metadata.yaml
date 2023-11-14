@@ -5,6 +5,9 @@ contributor:
     agent_name: Bowman, Bill
     gutenberg_agent_id: '56434'
     url: http://www.gutenberg.org/2009/agents/56434
+covers:
+- cover_type: archival
+  image_path: 71918-h/images/cover.jpg
 creator:
   author:
     agent_name: Silverberg, Robert
@@ -15,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Robert_Silverberg
     - https://www.gutenberg.org/ebooks/author/53466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71918#The-overlord-s-thumb
 gutenberg_issued: '2023-10-20'
 identifiers:
   gutenberg: '71918'
